@@ -40,4 +40,6 @@ com.unity.modules.video@1.0.0
 com.unity.modules.vr@1.0.0
 com.unity.modules.wind@1.0.0
 com.unity.modules.xr@1.0.0
+com.atteneder.gltfast@4.8.5
+com.atteneder.draco@4.0.2
 com.unity.template.3d@8.1.0
